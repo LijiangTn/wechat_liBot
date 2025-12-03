@@ -1,6 +1,7 @@
 {
   "name": "wechat-libot",
   "version": "0.1.0",
+  "license": "MIT",
   "description": "Minimal Wechaty-based personal bot that auto-replies fixed text to friends (no AI).",
   "type": "module",
   "scripts": {
