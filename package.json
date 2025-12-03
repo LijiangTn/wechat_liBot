@@ -1,0 +1,16 @@
+{
+  "name": "wechat-libot",
+  "version": "0.1.0",
+  "description": "Minimal Wechaty-based personal bot that auto-replies fixed text to friends (no AI).",
+  "type": "module",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "qrcode-terminal": "^0.12.0",
+    "wechaty": "^1.20.2",
+    "wechaty-puppet-wechat4u": "^1.14.14"
+  }
+}
+
